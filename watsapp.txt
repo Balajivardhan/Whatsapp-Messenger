@@ -1,0 +1,5 @@
+1. Account creation
+2. Verification
+3. Message
+4. video call
+5. voice call
